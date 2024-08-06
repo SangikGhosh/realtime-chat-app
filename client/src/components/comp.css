@@ -1,0 +1,60 @@
+
+.main{
+    background-color: #222a35;
+    width: 100%;
+    padding-top: 20px;
+    color: white;
+    padding-bottom: 20px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 80px;
+    width: 70px;
+    background-color: pink;
+    margin-left: 4px;
+    border-radius: 10px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+.msgpage{
+    width: 100%;
+    background-color: #1a1f27;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.msgbg{
+    background-color: #222a35;
+    width: 100%;
+    color: white;
+}
+.msgbguserdetails{
+    position: sticky;
+    top: 0;
+    height: 62px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+
+
